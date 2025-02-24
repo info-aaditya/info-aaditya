@@ -11,7 +11,7 @@ Welcome to my corner of GitHub! I'm a dedicated software developer and tech enth
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤝 I’m looking for help with ... -->
 - 💬 Let's chat about React Native, Next.js, TypeScript, JavaScript, and app development.
-- 📫 Reach out to me at: [email](mailto:gaadityag@gaadityag.com)
+- 📫 Reach out to me at: [email](mailto:gaadityag@gmail.com)
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I'm an avid chess player and puzzle solver.
 
