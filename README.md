@@ -1,22 +1,36 @@
+# Hello, I'm Aaditya! 👋
+
+Welcome to my corner of GitHub! I'm a dedicated software developer and tech enthusiast with a passion for creating innovative solutions. Here's a little about me:
+
+
 # 💫 About Me:
-<h1 align="left">Hi 👋! My name is Aaditya and I'm a Senior React Native Developer from Nepal</h1>
 
-<!--
-**info-aaditya/info-aaditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Currently exploring cutting-edge mobile development with React Native and web development with Next.js.
+- 🌱 Continuously learning and expanding my skill set.
+- 🎨 Passionate about writing clean and efficient code.
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤝 I’m looking for help with ... -->
+- 💬 Let's chat about React Native, Next.js, TypeScript, JavaScript, and app development.
+- 📫 Reach out to me at: [email](mailto:gaadityag@gmail.com)
+<!-- - 😄 Pronouns: ... -->
+- ⚡ Fun fact: I'm an avid chess player and puzzle solver.
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤝 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some of the exciting projects I've worked on:
 
-## 🌐 Socials:
+- [🏡 Real-Estate-App](#): A full-stack real estate app from scratch with React Native, featuring Google Auth, dynamic route, and more. Master essential skills for scalable and clean React Native development.
+- [🏠 Rent-House](#): A comprehensive platform for seamless property management and home rentals. Features include digital lease management, automated rental reminders, and a robust review system. 
+- [💬 Real-time Chat App](#): A real-time chat application similar to Instagram, built with React Native.
+- [🏥 Healthcare](https://healthcare-barpatech.vercel.app): Build a healthcare platform that streamlines patient registration, appointment scheduling, and medical records, and learn to implement complex forms and SMS notifications. Built with NextJS.
+- [🛒 E-commerce Platform](#): An e-commerce platform built with React Native.
+- [🏦 Banking-App](https://banking-barpa.vercel.app): Banking app with a finance management dashboard that connects multiple bank accounts, displays real-time transactions, and allows you to transfer money to other users. Built with NextJS.
+- [💬 Chat AI - Your Chat AI Messenger](https://chatai-barpa.vercel.app): An AI-powered chat messenger. Built with NextJS.
+- [✈️ Cheap-Flight-Tickets](#): A React Native application to find and book cheap flight tickets.
+- [📝 Task Manager](#): A feature-rich web application for managing tasks efficiently.
+- [🎨 BARPA Flexi](#): BARPA Flexi is the world's leading community for creatives to share, grow, and get hired. Built with NextJS.
+
+## 🌐 Connect with Me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/barpatech)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/info_aaditya)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/info-aaditya)
