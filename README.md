@@ -29,7 +29,7 @@ Here are some of the exciting projects I've worked on:
 - [✈️ Cheap-Flight-Tickets](#): A React Native application to find and book cheap flight tickets.
 - [📝 Task Manager](#): A feature-rich web application for managing tasks efficiently.
 - [🎨 BARPA Flexi](#): BARPA Flexi is the world's leading community for creatives to share, grow, and get hired. Built with NextJS.
-
+- [🎨 Receipt Tracker](#): Track, upload, and organize receipts with AI-powered automation. Smart expense tracking, invoice scanning, and seamless financial management for businesses and individuals.
 ## 🌐 Connect with Me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/barpatech)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/info_aaditya)
